@@ -1,2 +1,5 @@
 # hangman-word-game-JS
-Game written in JS with using jQuery library
+
+Popular Word Guessing Game
+written in JavaScript
+with using jQuery library
