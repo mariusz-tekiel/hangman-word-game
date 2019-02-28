@@ -5,4 +5,4 @@
 with using <strong>jQuery</strong> library</h3>
 <br>
 <hr>
-<img src="screen1.jpg">
+<img src="img/screen1.jpg">
