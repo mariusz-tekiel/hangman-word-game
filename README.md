@@ -5,5 +5,5 @@
 with using <strong>jQuery</strong> library</h3>
 <br>
 <hr>
-![](images/filename screen1.jpg)
+![](images/screen1.jpg)
 <img src="img/screen1.jpg">
