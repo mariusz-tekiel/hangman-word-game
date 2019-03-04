@@ -1,4 +1,4 @@
-# hangman-word-game-JS
+# hangman-word-game
 
 <h2>Popular Word Guessing Game</h2>
 <h3>written in <strong>JavaScript</strong> <br/>
