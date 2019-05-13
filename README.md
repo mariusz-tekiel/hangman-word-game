@@ -10,4 +10,4 @@
 <img src="img/screen1.png">
 Cool
 >>>>>>> d92d2caaf9622d1bcd67f2d9298f02252c4114d9
-<br> PLAY >> <h3>http://betways.co.uk/js-games/HANGMAN-GAME/hangman.html</h3>
+<br> <h3>PLAY >> </h3>  http://betways.co.uk/js-games/HANGMAN-GAME/hangman.html
