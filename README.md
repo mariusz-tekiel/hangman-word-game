@@ -5,8 +5,6 @@
 </h3>
 <br>
 <hr>
-<<<<<<< HEAD
-
 
 <br>
-<h3>PLAY >> </h3>  http://betways.co.uk/js-games/HANGMAN-GAME/hangman.html
+<h4>PLAY >>   http://betways.co.uk/js-games/HANGMAN-GAME/hangman.html</h4>
