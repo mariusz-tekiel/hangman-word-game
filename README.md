@@ -8,4 +8,4 @@
 
 <br>
 <h4>PLAY >>   http://betways.me/js-games/HANGMAN-GAME/hangman.html</h4>
-<h2><b>Website under modification - sorry!</b></h2>
+
