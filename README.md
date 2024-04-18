@@ -7,5 +7,5 @@
 <hr>
 
 <br>
-<h4>PLAY >>   http://betways.me/js-games/HANGMAN-GAME/hangman.html</h4>
+<h4>PLAY >>   [http://betways.me/js-games/HANGMAN-GAME/hangman.html](http://devmariusz.pl/js-games/HANGMAN-GAME/hangman.html)</h4>
 
